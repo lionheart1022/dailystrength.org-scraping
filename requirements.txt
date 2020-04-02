@@ -1,7 +1,7 @@
 XlsxWriter==0.5.5
 argparse==1.2.1
 beautifulsoup4==4.3.2
-dateutils==0.6.6
+dateutils==0.6.8
 distribute==0.6.27
 html5lib==0.999
 python-dateutil==2.2
