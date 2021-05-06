@@ -6,4 +6,4 @@ distribute==0.6.27
 html5lib==0.999
 python-dateutil==2.2
 pytz==2014.3
-six==1.6.1
+six==1.16.0
